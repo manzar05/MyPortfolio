@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.9f8f19d3.css",
+    "main.js": "/MyPortfolio/static/js/main.dd08b7ad.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/user.png": "/MyPortfolio/static/media/user.e2baf9eca7701915f521.png",
+    "static/media/resume.pdf": "/MyPortfolio/static/media/resume.7e213dc1680d33f937af.pdf",
+    "static/media/Python.pdf": "/MyPortfolio/static/media/Python.e2a56aa51f2a8bbdc9a2.pdf",
+    "static/media/Java.pdf": "/MyPortfolio/static/media/Java.9db90f5f190292efa4f8.pdf",
+    "static/media/Cpp.pdf": "/MyPortfolio/static/media/Cpp.ea686f2065d5afcc11de.pdf",
+    "static/media/C.pdf": "/MyPortfolio/static/media/C.72efc7a0d3b2e8071118.pdf",
+    "static/media/HTML.pdf": "/MyPortfolio/static/media/HTML.f3ade457d6f1ff0921c6.pdf",
+    "static/media/glassesimoji.png": "/MyPortfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/humble.png": "/MyPortfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/MyPortfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/glasses.png": "/MyPortfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/github.png": "/MyPortfolio/static/media/github.1faf5bafa9e87c3e3f43.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.9f8f19d3.css.map": "/MyPortfolio/static/css/main.9f8f19d3.css.map",
+    "main.dd08b7ad.js.map": "/MyPortfolio/static/js/main.dd08b7ad.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8f19d3.css",
+    "static/js/main.dd08b7ad.js"
+  ]
+}
